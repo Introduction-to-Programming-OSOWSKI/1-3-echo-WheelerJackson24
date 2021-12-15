@@ -1,4 +1,4 @@
-def echo(x):
-    print(x * 5)
+def echo(x, y):
+    print(x * y)
 
-echo("Hi")
+echo("Hi", 5)
