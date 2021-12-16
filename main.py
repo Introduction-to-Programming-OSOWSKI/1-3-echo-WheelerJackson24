@@ -1,4 +1,4 @@
 def echo(x, y):
-    print(x * y)
+    return(x * y)
 
 echo("Hi", 5)
